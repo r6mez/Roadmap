@@ -53,12 +53,22 @@ These are essentials, you'll need them no matter what field/track you will conti
     - [Laracasts - 30 days to learn laravel](https://laracasts.com/series/30-days-to-learn-laravel-11)
 - Projects
     - Do a project or two using laravel, something like [E-Commerce-Platform](https://github.com/r6mez/E-Commerce-Platform) or [Digital-Library-API](https://github.com/r6mez/Digital-Library-API), after that you're ready for applying to jobs/internships but the learning never stops.
+    - Note: you might not continue with laravel, but you will be ready to learn any new language/framework with a simple crash course, so don't limit yourself with a single stack.
 
-Note: you might not continue with laravel, but you will be ready to learn any new language/framework with a simple crash course, so don't limit yourself with a single stack.
 
-## Applying to Jobs/Internships
+
+### Applying to Jobs/Internships
 - Create a CV
     - Use this template [Jake's Resume](https://www.overleaf.com/latex/templates/jakes-resume/syzfjbzwjncs)
 - Interview preparations
     - [Interview School](https://interviews.school/)
 
+## Advanced Full-Stack Development
+This section is things that I had to learn while working on random projects, so I'll leave these resources here too.
+- Docker
+    - [Docker and Kubernetes | العلبة دي فيها سوعبان](https://youtu.be/PrusdhS2lmo?si=RZxeaKRJ57-6UyEm)
+- Advanced Frontend
+    - [React Framework Crash Course](https://youtu.be/LDB4uaJ87e0?si=lBfspG_jZ_veNuQg)
+    - [Tailwind CSS](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw)
+- AI
+    - will add that ..
