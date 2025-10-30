@@ -1,0 +1,64 @@
+# Roadmap for CS Students
+
+## Introduction
+Hello, in this repository I’ll be collecting all the resources, courses, and materials I’ve used or found helpful throughout my journey to becoming a software engineer specialized in backend development.
+
+Most of the resources are in Arabic, as they’re the ones I personally learned from and trust, but contributions are welcome, feel free to add more English resources through a pull request.
+
+
+
+## Roadmap
+
+### Fundementals (This should not take more that 2 years)
+These are essentials, you'll need them no matter what field/track you will continue studying later.
+
+- programming langauge (C++ or Java recommended).
+    - [EL-Zero - Fundamentals Of Programming With C++ in Arabic](https://www.youtube.com/playlist?list=PLDoPjvoNmBAwy-rS6WKudwVeb_x63EzgS)
+- Object Oriented Programming OOP
+    - [Adel Nassim - Object-Oriented Programming C++ in Arabic](https://www.youtube.com/watch?v=YMXUxKDziaA&list=PLCInYL3l2Aaiq1oLvi9TlWtArJyAuCVow)
+- Data Structures
+    - [Adel Nassim - Data Structures with c++ Full Course In Arabic](https://www.youtube.com/watch?v=owCqVRbZlbg&list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp&pp=0gcJCbAEOCosWNin) 
+- Algorithms
+    - [Mostafa Saad - Mastering critical SKILLS in Algorithms using C++: Part 1](https://www.udemy.com/course/skills-algorithms-cpp/)
+    - [Mostafa Saad - Mastering critical SKILLS in Algorithms using C++: Part 2](https://www.udemy.com/course/skills-algorithms-cpp2/)
+- Problem Solving 
+    - [Mansoura Roadmap](https://roadmap.sh/r/problem-solving-u8am0) - Go through level 0 while learning CPP and OOP, and level 1 while learning data structures and algorihms.
+- Databases
+    - [Ramy - Database ITI](https://youtube.com/playlist?list=PLoRh0POuk1Rw-BZU-DPI6cA_c5W9_2uF_&si=YZ9gPHxAhzBd9EZ3)
+    - [Solve Leetcode 50 SQL Problem](https://leetcode.com/studyplan/top-sql-50/)
+- Networks
+    - [CompTIA Network+](https://www.youtube.com/watch?v=02Jo7gR9GnA&list=PLH-n8YK76vIiuIZoWvHL7AvtrDV7hR3He)
+- Operating Systems
+    - [Dr. Hassan Alansary - Operating Systems](https://www.youtube.com/watch?v=-sE3rMX20J4&list=PLKlTaCM87WvrO0RElCsK30uS-ylzRLgFM)
+    - [Linux | البطريق العضاض يعظ](https://youtu.be/gojeTqXdBH0?si=C6ah_rDvGycnxHN3) - I recomment you install any linux distro and start using it as daily driver in development, if you don't want to loose your current operating system, you can "dual boot" linux.
+- Projects
+    - You need to do a project or two applying your knowledge about the fundmentals, you can search for some ideas but making a new and a unique idea is a plus, some example that I made is [Contact Book](https://github.com/r6mez/Contact-Book), [SpotUI](https://github.com/r6mez/Spotui), and [Image to ASCII Converter](https://github.com/r6mez/Image-To-ASCII-Converter) 
+
+
+### Backend
+
+- Basic web development
+    - [Codezella - HTML and CSS](https://www.youtube.com/watch?v=aHzw_8wWl48)
+    - [TraversryMedia - Javascript](https://youtu.be/hdI2bqOjy3c)
+- Git and Github
+    - [Badr - Git & Github Compelete Guide](https://youtu.be/FueXoIewxg0?si=jRoQl9HVRK_GuaFx)
+- MySQL 
+    - [MySQL From Beginner to Monster Level (4-Hour Complete Course)](https://youtu.be/h4R-nJbM_ac?si=oozsxZMjh9AbK7L8) 
+- PHP
+    - [El-Zero - PHP Boot Camp](https://www.youtube.com/playlist?list=PLDoPjvoNmBAy41u35AqJUrI-H83DObUDq) (learn the syntax)
+    - [Laracast - PHP For Beginners - Complete Laracasts Course](https://www.youtube.com/watch?v=fw5ObX8P6as) (learn how to actually use php in backend dev)
+- MVC Model
+    - [Build PHP MVC Framework](https://www.youtube.com/playlist?list=PLLQuc_7jk__Uk_QnJMPndbdKECcTEwTA1)
+- Laravel
+    - [Laracasts - 30 days to learn laravel](https://laracasts.com/series/30-days-to-learn-laravel-11)
+- Projects
+    - Do a project or two using laravel, something like [E-Commerce-Platform](https://github.com/r6mez/E-Commerce-Platform) or [Digital-Library-API](https://github.com/r6mez/Digital-Library-API), after that you're ready for applying to jobs/internships but the learning never stops.
+
+Note: you might not continue with laravel, but you will be ready to learn any new language/framework with a simple crash course, so don't limit yourself with a single stack.
+
+## Applying to Jobs/Internships
+- Create a CV
+    - Use this template [Jake's Resume](https://www.overleaf.com/latex/templates/jakes-resume/syzfjbzwjncs)
+- Interview preparations
+    - [Interview School](https://interviews.school/)
+
