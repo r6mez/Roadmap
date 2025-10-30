@@ -33,6 +33,8 @@ These are essentials, you'll need them no matter what field/track you will conti
     - [Linux | البطريق العضاض يعظ](https://youtu.be/gojeTqXdBH0?si=C6ah_rDvGycnxHN3) - I recomment you install any linux distro and start using it as daily driver in development, if you don't want to loose your current operating system, you can "dual boot" linux.
 - Projects
     - You need to do a project or two applying your knowledge about the fundmentals, you can search for some ideas but making a new and a unique idea is a plus, some example that I made is [Contact Book](https://github.com/r6mez/Contact-Book), [SpotUI](https://github.com/r6mez/Spotui), and [Image to ASCII Converter](https://github.com/r6mez/Image-To-ASCII-Converter) 
+- Additional
+    - [Pragma - ما بعد الأساسيات](https://www.youtube.com/playlist?list=PL9ExMy1CBZjnsv2WXFKxXNf41iT1pdT2Q)
 
 
 ### Backend
@@ -56,10 +58,11 @@ These are essentials, you'll need them no matter what field/track you will conti
     - Note: you might not continue with laravel, but you will be ready to learn any new language/framework with a simple crash course, so don't limit yourself with a single stack.
 
 
-
 ### Applying to Jobs/Internships
 - Create a CV
     - Use this template [Jake's Resume](https://www.overleaf.com/latex/templates/jakes-resume/syzfjbzwjncs)
+- Create a nice linkedin account
+    - [Ahmed ElEmam - ازاي تحسن بروفايلك على لينكد ان   ](https://www.youtube.com/live/K4sFke6ZXDE?si=K0ArDMeg6ZvZT3Fp)
 - Interview preparations
     - [Interview School](https://interviews.school/)
 
