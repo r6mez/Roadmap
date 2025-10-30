@@ -63,7 +63,7 @@ These are essentials, you'll need them no matter what field/track you will conti
 - Interview preparations
     - [Interview School](https://interviews.school/)
 
-## Advanced Full-Stack Development
+### Advanced Full-Stack Development
 This section is things that I had to learn while working on random projects, so I'll leave these resources here too.
 - Docker
     - [Docker and Kubernetes | العلبة دي فيها سوعبان](https://youtu.be/PrusdhS2lmo?si=RZxeaKRJ57-6UyEm)
