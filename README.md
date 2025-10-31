@@ -28,8 +28,10 @@ These are essentials, you'll need them no matter what field/track you will conti
     - [Solve Leetcode 50 SQL Problem](https://leetcode.com/studyplan/top-sql-50/)
 - Networks
     - [CompTIA Network+](https://www.youtube.com/watch?v=02Jo7gR9GnA&list=PLH-n8YK76vIiuIZoWvHL7AvtrDV7hR3He)
+    - [DR Ayman Bahaa](https://www.youtube.com/playlist?list=PLy_2fgXkPiZuMaG9Jmp8PAwimIumf19hp)
 - Operating Systems
     - [Dr. Hassan Alansary - Operating Systems](https://www.youtube.com/watch?v=-sE3rMX20J4&list=PLKlTaCM87WvrO0RElCsK30uS-ylzRLgFM)
+    - [DR Ahmed Hagag](https://www.youtube.com/playlist?list=PLxIvc-MGOs6ib0oK1z9C46DeKd9rRcSMY))
     - [Linux | البطريق العضاض يعظ](https://youtu.be/gojeTqXdBH0?si=C6ah_rDvGycnxHN3) - I recommend you install any linux distro and start using it as daily driver in development, if you don't want to loose your current operating system, you can "dual boot" linux.
 - Projects
     - You need to do a project or two applying your knowledge about the fundmentals, you can search for some ideas but making a new and a unique idea is a plus, some example that I made is [Contact Book](https://github.com/r6mez/Contact-Book), [SpotUI](https://github.com/r6mez/Spotui), and [Image to ASCII Converter](https://github.com/r6mez/Image-To-ASCII-Converter) 
