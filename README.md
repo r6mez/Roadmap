@@ -62,7 +62,7 @@ These are essentials, you'll need them no matter what field/track you will conti
 
 ### Applying to Jobs/Internships
 - Create a CV
-    - Use this template [Jake's Resume](https://www.overleaf.com/latex/templates/jakes-resume/syzfjbzwjncs)
+    - [Jake's Resume](https://www.overleaf.com/latex/templates/jakes-resume/syzfjbzwjncs) I recommend you to use this tamplate to make your CV keep it one page and simple, highlight the skills you learned. 
 - Create a nice linkedin account
     - [Ahmed ElEmam - ازاي تحسن بروفايلك على لينكد ان   ](https://www.youtube.com/live/K4sFke6ZXDE?si=K0ArDMeg6ZvZT3Fp)
 - Interview preparations
