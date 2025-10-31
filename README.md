@@ -39,11 +39,11 @@ These are essentials, you'll need them no matter what field/track you will conti
     - [Pragma - ما بعد الأساسيات](https://www.youtube.com/playlist?list=PL9ExMy1CBZjnsv2WXFKxXNf41iT1pdT2Q)
 
 
-### Backend
+### Backend (4 to 8 months)
 
 - Basic web development
     - [Codezella - HTML and CSS](https://www.youtube.com/watch?v=aHzw_8wWl48)
-    - [TraversryMedia - Javascript](https://youtu.be/hdI2bqOjy3c)
+    - [TraversryMedia - Javascript](https://youtu.be/hdI2b8qOjy3c)
 - Git and Github
     - [Badr - Git & Github Compelete Guide](https://youtu.be/FueXoIewxg0?si=jRoQl9HVRK_GuaFx)
 - MySQL 
