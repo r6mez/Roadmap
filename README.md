@@ -50,6 +50,7 @@ These are essentials, you'll need them no matter what field/track you will conti
     - [MySQL From Beginner to Monster Level (4-Hour Complete Course)](https://youtu.be/h4R-nJbM_ac?si=oozsxZMjh9AbK7L8) 
 - PHP
     - [Osama El-Zero - PHP Boot Camp](https://www.youtube.com/playlist?list=PLDoPjvoNmBAy41u35AqJUrI-H83DObUDq) (learn the syntax)
+    - [El-Zero - OOP with PHP](https://youtube.com/playlist?list=PLDoPjvoNmBAxXTPncg0W4lhVS32LO_xtQ&si=TIhUoYjvnJADMVhq) (also learn the syntax of classes and OOP related topics)
     - [Laracast - PHP For Beginners - Complete Laracasts Course](https://www.youtube.com/watch?v=fw5ObX8P6as) (learn how to actually use php in backend dev)
 - MVC Model
     - [Build PHP MVC Framework](https://www.youtube.com/playlist?list=PLLQuc_7jk__Uk_QnJMPndbdKECcTEwTA1)
