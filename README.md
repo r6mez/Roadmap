@@ -9,7 +9,7 @@ Most of the resources are in Arabic, as they’re the ones I personally learned 
 
 ## Roadmap
 
-### Fundementals (This should not take more that 2 years)
+### Fundementals
 These are essentials, you'll need them no matter what field/track you will continue studying later.
 
 - Programming Langauge (C++ or Java recommended).
@@ -39,7 +39,7 @@ These are essentials, you'll need them no matter what field/track you will conti
     - [Pragma - ما بعد الأساسيات](https://www.youtube.com/playlist?list=PL9ExMy1CBZjnsv2WXFKxXNf41iT1pdT2Q)
 
 
-### Backend (4 to 8 months)
+### Backend
 
 - Basic web development
     - [Codezella - HTML and CSS](https://www.youtube.com/watch?v=aHzw_8wWl48)
