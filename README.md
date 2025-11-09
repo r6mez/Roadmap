@@ -9,6 +9,9 @@ Most of the resources are in Arabic, as they’re the ones I personally learned 
 
 ## Roadmap
 
+### First
+I recommend you to watch first 7 videos of this playlist to get a better view of the journey [Dr. Mostafa Saad - سلسلة ارشاد طلبة حاسبات](https://youtube.com/playlist?list=PLPt2dINI2MIYY3yqu4YDu2se2GCpcKBfB&si=wGYxeGJls1zs5tpW)
+
 ### Fundementals
 These are essentials, you'll need them no matter what field/track you will continue studying later.
 
