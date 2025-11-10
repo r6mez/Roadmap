@@ -68,7 +68,7 @@ These are essentials, you'll need them no matter what field/track you will conti
 - Create a CV
     - [Jake's Resume](https://www.overleaf.com/latex/templates/jakes-resume/syzfjbzwjncs) I recommend you to use this tamplate to make your CV keep it one page and simple, highlight the skills you learned. 
 - Create a nice Linkedin and Github account, post your projects and build a nice reputation, it will help a lot.
-    - [Ahmed ElEmam - ازاي تحسن بروفايلك على لينكد ان   ](https://www.youtube.com/live/K4sFke6ZXDE?si=K0ArDMeg6ZvZT3Fp)
+    - [Ahmed El-Emam - ازاي تحسن بروفايلك على لينكد ان   ](https://www.youtube.com/live/K4sFke6ZXDE?si=K0ArDMeg6ZvZT3Fp)
 - Interview preparations
     - [Interview School](https://interviews.school/)
 
