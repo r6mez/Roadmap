@@ -36,6 +36,48 @@ These are essentials, you'll need them no matter what field/track you will conti
     - [Dr. Hassan Alansary - Operating Systems](https://www.youtube.com/watch?v=-sE3rMX20J4&list=PLKlTaCM87WvrO0RElCsK30uS-ylzRLgFM)
     - [Dr. Ahmed Hagag - Operating Systems](https://www.youtube.com/playlist?list=PLxIvc-MGOs6ib0oK1z9C46DeKd9rRcSMY)
     - [Linux | البطريق العضاض يعظ](https://youtu.be/gojeTqXdBH0?si=C6ah_rDvGycnxHN3) - I recommend you install any linux distro and start using it as a daily driver in development, if you don't want to loose your current operating system, you can "dual boot" linux.
+    
+    - **Dr. Ahmed Salah - Operating Systems** : 
+	    - ### Overview
+			
+			**Note:** This is a very comprehensive course designed for undergraduates, offered by Ain Shams University and created by **Dr. Ahmed Salah**.  
+			The course integrates resources from top international universities such as **Berkeley, UMass, Stanford, and MIT**, ensuring a rich learning experience.
+			
+			### Tips for Success
+			- Take your time studying this course thoroughly; it’s designed to build a strong foundation. Avoid rushing through the material.
+			- Before starting your track, ensure you’ve:
+			  - Completed at least the lecture content.
+			  - Gained a solid understanding of the basics.
+			
+			### What the Course Includes
+			
+			#### Lectures
+			- Comprehensive explanations of core topics, laying the groundwork for understanding Operating Systems.
+			#### Sections
+			- Hands-on, interactive problem-solving sessions designed to reinforce concepts learned in lectures.
+			#### Assignments (Sheets)
+			- Practice problems to help solidify your knowledge and prepare for exams.
+			#### Project
+			A major project where you’ll:
+			- Build an Operating System using **C**.
+			- Solve challenging problems related to OS concepts.
+			- Apply theoretical knowledge to practical scenarios.
+			
+			- Include this project in your **CV** to showcase your skills for internship or job opportunities.
+		
+			## Resources
+			
+			### Video Playlists
+			- [Operating Systems | Lectures | Fall 2024](https://www.youtube.com/playlist?list=PLpfYfulQlEPyavmKP24AhTtdzD2OZ-qgk)
+			- [Operating Systems | Sections](https://www.youtube.com/playlist?list=PLmEgjtU1dGftDXEVVoSlasGzfeWOsHobS)  
+			- [Operating Systems | Problem Sessions](https://www.youtube.com/playlist?list=PLpfYfulQlEPyqVD4VVw3HtdLb8DGBqIKb) 
+			- [Operating Systems | FALL 2024 | PROJECT](https://www.youtube.com/playlist?list=PLpfYfulQlEPxcG4On42egRf8k-0IZEdqQ)
+			- [Operating Systems - Revision](https://www.youtube.com/playlist?list=PLpfYfulQlEPzG9UYlnYITAOpW1ZEH2NUi)
+			
+			### Supplementary Material
+			- [Google Drive for Materials (including text book)](https://drive.google.com/drive/folders/1ExkmYfMLUcBO6_cWhPPPZ-9H597VmbHb)
+----
+
 - Projects
     - You need to do a project or two applying your knowledge about the fundmentals, you can search for some ideas but making a new and a unique idea is a plus, some example that I made is [Contact Book](https://github.com/r6mez/Contact-Book), [SpotUI](https://github.com/r6mez/Spotui), and [Image to ASCII Converter](https://github.com/r6mez/Image-To-ASCII-Converter) 
 - Additional
